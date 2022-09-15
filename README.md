@@ -1,5 +1,5 @@
 # DBDEazyQTE
-A simple script that can help you pass the QTE check automatically 
+A simple script for DeadByDaylight that can help you pass the QTE check automatically 
 
 # Usage
 The program use hotkeys to control the functions. You can use them to apply in different scenarios.
