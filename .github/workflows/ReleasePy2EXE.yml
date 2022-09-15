@@ -35,9 +35,5 @@ jobs:
       - name: Create Release and Upload Release Asset
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ github.ref }}
-          name: Release ${{ github.ref }}
-          files: |
-            DBDEazyQTE.exe
-            LICENSE 
+          files: build/DBDEazyQTE.exe
    
