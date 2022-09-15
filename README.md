@@ -16,4 +16,4 @@ Press `caps lock` or `F1` : pause/resume the program.
 Press `=`/`-` : increase/decrease the color sensitivity. Eg: if it hits earlier than shoud be , you shoud press `-`  
 
 ## Hyperfocus
-Pressing `3` or `4` will reset the Hyperfocus tokens to 0. Every time you use this perk from 0 token or maybe the program misses the great Skill Check, you should press `3` for `4` to reset the tokens.
+Pressing `3` or `4` will reset the Hyperfocus tokens to 0. Every time you use this perk from 0 token or maybe the program misses the great Skill Check, you should press `3` or `4` to reset the tokens.
