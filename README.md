@@ -20,5 +20,5 @@ Pressing `3` or `4` will reset the Hyperfocus tokens to 0. Every time you use th
 
 
 ## Merciless Storm  
-This program will automatically detect the Merciless Storm Perk and counter it when you are repairing generators.
+This program will automatically detect the Merciless Storm Perk and counter it when you are repairing generators. Be aware that it will be too late to hit the next Merciless Storm QTE if your CPU is not fast enough, because the time gap between two Merciless Storm QTE is very short.
 
