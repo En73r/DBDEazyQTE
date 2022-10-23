@@ -521,10 +521,12 @@ def driver():
     # result = {}
     global crop_w, crop_h
     im = pyautogui.screenshot()
-    if (im.height == 1600):
+    if im.height == 1600: # 2560*1600
         crop_w, crop_h = 250, 250
-    elif (im.height == 1080):
+    elif im.height == 1080: # 1920*1080
         crop_w, crop_h = 150, 150
+    elif im.height == 2160: # 3840*2160
+        crop_w, crop_h = 330, 330
     global region
     region = [int((im.width-crop_w)/2), int((im.height-crop_h)/2),
                   crop_w, crop_h]
