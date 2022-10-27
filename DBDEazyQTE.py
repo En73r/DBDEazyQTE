@@ -399,6 +399,7 @@ def timer(im1, t1):
         pre_4deg_check_points.append(end_point)
     else:
         print('[!]large white area detected')
+        check_points.pop()
 
     #TODO: extend pre_4deg_check_points for more degs
     
